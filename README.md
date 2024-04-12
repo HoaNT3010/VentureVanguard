@@ -1,1 +1,1 @@
-"# VentureVanguard" 
+# VentureVanguard
